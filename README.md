@@ -1,4 +1,4 @@
-**Eye Tracker**
+# Eye Tracker
 
 This project took knowledge CSS to generate two eyes from shapes that are able to dynamically track a mouse cursor independently.
 
